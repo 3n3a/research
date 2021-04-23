@@ -5854,7 +5854,7 @@ Dies Webseite zeigt an, dass Pistor insgesamt in ihrem Online-Shop 18'000 versch
 
 ## Mensaartikel
 
-- Brownie:
+### Brownie:
   > muss ein brownie von diesen sein
 
 [Quelle](https://www.pistorone.ch/index.php/locale:de_CH/ctx:L2NhdGFsb2cy/search?add_article=Brownie&prodfilters%5Bcatalog_level_2%5D%5B172634%5D=172634&prodfilters%5Battr_de_marke%5D%5B16467%5D=16467&prodfilters%5Battr_de_marke%5D%5B15977%5D=15977)
@@ -5866,3 +5866,13 @@ Dies Webseite zeigt an, dass Pistor insgesamt in ihrem Online-Shop 18'000 versch
     > in Konklustion macht es am meisten Sinn, den ersten Brownie zu kaufen, nur wegen der Menge und des Preises.
 
     > Auch möglich wäre es, dass die Mensa das zweite Brownie kauft, da die Kartons nicht so viele enthalten...
+
+### Mate
+
+> billiger angekauft als wenn man in der Migros/Denner kaufen würde
+
+- 28189: [El Tony Mate, Dose, 3.3 dl](https://www.pistorone.ch/index.php/locale:de_CH/catalog2/products/10519482/getranke/energy-drinks/diverse-energy-drinks/el-tony-mate-24x33-dl-dose) --> Dose à **1.55 CHF**, 0.33 l
+
+- 28016: [Puerto Mate Tereré Eistee Granatapfel, Tetra, 5 dl](https://www.pistorone.ch/index.php/catalog2/products/9563138/getranke/ice-tea/puerto-mate/puerto-mate-granatapfel-8x5dl?prodfilters%5Btags%5D%5BA%5D=A&prodfilters%5Bvendorname%5D%5B1700%5D=1700&context=%2Fcatalog2) --> Pack à **1.64 CHF**, 0.5 l
+
+- 28017: [Puerto Mate Tereré Eistee Zitronengras, Tetra, 5 dl](https://www.pistorone.ch/index.php/catalog2/products/9563139/getranke/ice-tea/puerto-mate/puerto-mate-zitronengras-8x5dl?prodfilters%5Btags%5D%5BA%5D=A&prodfilters%5Bvendorname%5D%5B1700%5D=1700&context=%2Fcatalog2) --> Pack à **1.64 CHF**, 0.5 l
